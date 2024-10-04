@@ -1,0 +1,15 @@
+{
+  "name": "advance",
+  "version": "1.0.0",
+  "description": "a advance backend video youtube project with chai and code yt channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "youtube"
+  ],
+  "author": "Tahir Gulzar",
+  "license": "ISC"
+}
